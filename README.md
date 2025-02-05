@@ -15,8 +15,8 @@
 
 ### 🛠️ Tecnologias & Ferramentas
 - **Linguagens:** JavaScript (Node.js, React), Go, SQL, Python, Java.
-- **Banco de Dados:** MySQL
-- **Frameworks & Libraries:** React, Express, GraphQL, Gin
+- **Banco de Dados:** MySQL, MongoDB.
+- **Frameworks & Libraries:** React, Express, GraphQL, Gin.
 - **Outros:** Git, Docker, REST APIs, JWT.
 
 ### 🤝 Vamos Conectar?
