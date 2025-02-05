@@ -1,16 +1,24 @@
-## Hi there 👋
+## Olá, eu sou o João Victor Bortoluzzi! 👋 
 
-<!--
-**Jvbrtzz/Jvbrtzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Desenvolvedor Web Junior** em busca de desafios para evoluir para o nível pleno.
 
-Here are some ideas to get you started:
+### 📊 Estatísticas do GitHub
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jvbrtzz&layout=compact&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+- 💻 Atualmente trabalhando em projetos de **aplicativos de flashcards** com foco em **Node.js**, **React**, **MySQL** e **GO**.
+- 📚 Estudando **Go** pela Alura, focando em **validações**, **testes** e ** REST APIs**.
+- 🗂️ Experiência com **GraphQL**, manipulação de **cookies** e autenticação de usuários.
+- 🎯 Interesses em **sistemas de revisão espaçada**, como o **Sistema de Leitner**, aplicados em apps de aprendizado, REST APIs.
+
+### 🛠️ Tecnologias & Ferramentas
+- **Linguagens:** JavaScript (Node.js, React), Go, SQL, Python, Java.
+- **Banco de Dados:** MySQL
+- **Frameworks & Libraries:** React, Express, GraphQL, Gin
+- **Outros:** Git, Docker, REST APIs, JWT.
+
+### 🤝 Vamos Conectar?
+- 💼 [LinkedIn](https://www.linkedin.com/in/joão-victor-bortoluzzi-da-silva-31397b218/)
+- 📧 **Email:** jvbortoluzzi@gmail.com
+
+
