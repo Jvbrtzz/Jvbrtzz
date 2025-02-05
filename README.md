@@ -1,6 +1,8 @@
 ## Olá, eu sou o João Victor Bortoluzzi! 👋 
 
-🎯 **Desenvolvedor Web Junior** em busca de desafios para evoluir para o nível pleno.
+🎓 **Formado em Sistemas de Informação** pela Universidade Federal Fluminense.  
+⌨  Atualmente trabalhando na **Editora Globo SA**.    
+🎯 **Desenvolvedor Web Junior** em busca de desafios para evoluir para o nível pleno.  
 
 ### 📊 Estatísticas do GitHub
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jvbrtzz&layout=compact&theme=radical)
