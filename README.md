@@ -7,9 +7,9 @@
 
 ### 🚀 Sobre mim
 - 💻 Atualmente trabalhando em projetos de **aplicativos de flashcards** com foco em **Node.js**, **React**, **MySQL** e **GO**.
-- 📚 Estudando **Go** pela Alura, focando em **validações**, **testes** e ** REST APIs**.
+- 📚 Estudando **Go** e **Next.js** pela Alura, focando em **validações**, **testes** e **REST APIs**.
 - 🗂️ Experiência com **GraphQL**, manipulação de **cookies** e autenticação de usuários.
-- 🎯 Interesses em **sistemas de revisão espaçada**, como o **Sistema de Leitner**, aplicados em apps de aprendizado, REST APIs.
+- 🎯 Interesses em **sistemas de revisão espaçada**, como o **Sistema de Leitner**, aplicações focadas em aprendizado e organização, semelhantes ao **Trello** e REST APIs.
 
 ### 🛠️ Tecnologias & Ferramentas
 - **Linguagens:** JavaScript (Node.js, React), Go, SQL, Python, Java.
