@@ -23,5 +23,5 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/joão-victor-bortoluzzi-da-silva-31397b218/)
 - 📧 **Email:** jvbortoluzzi@gmail.com
 
-## TCC:
-https://app.uff.br/riuff/handle/1/35663
+### TCC:
+[MEMORIZA.IO: APLICAÇÃO DO SISTEMA LEITNER PARA POTENCIALIZAR A APRENDIZAGEM VIRTUAL](https://app.uff.br/riuff/handle/1/35663)
